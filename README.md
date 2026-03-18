@@ -1,16 +1,76 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Avdhoot! 👋</h1>
 
-<!--
-**avdhootp14/avdhootp14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=02569B&center=true&vCenter=true&width=535&lines=Full+Stack+%26+Mobile+Developer;UI%2FUX+Designer;MERN+%26+Flutter+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate developer and **UI/UX Designer** with a strong focus on crafting beautiful, performant applications. Whether it's designing an intuitive interface from scratch or building a scalable backend, I love the entire end-to-end development process!
+
+- 🔭 I’m currently working on building seamless mobile experiences and robust full-stack web apps.
+- 🌱 I’m currently refreshing my knowledge on advanced state management and the **MERN** stack.
+- 👯 I’m looking to collaborate on open-source projects, innovative app ideas, and design systems.
+- 💬 Ask me about **Flutter, MERN, UI/UX Design, Firebase, and Java**.
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/avdhootp144) | [Twitter/X](https://x.com/avdhootp14)
+- ⚡ Fun fact: I love experimenting with UI designs, wireframing, and creating buttery smooth animations!
+
+## 🛠️ Tech Stack & Tools
+
+### Mobile & Frontend
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+### Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### UI/UX & Design Tools
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+</p>
+
+### Version Control & Others
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avdhootp14&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="Avdhoot's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avdhootp14&theme=radium&hide_border=true&background=0D1117" alt="Avdhoot's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avdhootp14&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
+
+## 🏆 Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=avdhootp14&theme=radium&no-frame=true&no-bg=true&margin-w=15" alt="Avdhoot's Trophies" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Profile Visitors</i><br>
+  <img src="https://profile-counter.glitch.me/avdhootp14/count.svg" alt="Visitor Count" />
+</p>
