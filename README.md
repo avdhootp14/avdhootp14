@@ -52,25 +52,27 @@ I'm a passionate developer and **UI/UX Designer** with a strong focus on craftin
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avdhootp14&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="Avdhoot's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avdhootp14&theme=radium&hide_border=true&background=0D1117" alt="Avdhoot's GitHub Streak" />
-</p>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="195" src="https://github-readme-stats.vercel.app/api?username=avdhootp14&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117" alt="Avdhoot's GitHub Stats" />
+  </a>
+  <a href="https://github.com/aokj/github-readme-streak-stats">
+    <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=avdhootp14&theme=radium&hide_border=true&background=0D1117" alt="Avdhoot's GitHub Streak" />
+  </a>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avdhootp14&layout=compact&theme=radium&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
+</div>
 
 ## 🏆 Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=avdhootp14&theme=radium&no-frame=true&no-bg=true&margin-w=15" alt="Avdhoot's Trophies" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=avdhootp14&theme=radium&no-frame=true&no-bg=true&margin-w=15" alt="Avdhoot's Trophies" />
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   <i>Profile Visitors</i><br>
-  <img src="https://profile-counter.glitch.me/avdhootp14/count.svg" alt="Visitor Count" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=avdhootp14&color=02569B&style=flat" alt="Visitor Count" />
+</div>
